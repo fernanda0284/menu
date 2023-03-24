@@ -1,0 +1,163 @@
+"Menu": [
+	{
+		"nombre":"patatas asadas",
+		"descripcion":"esff",
+		"precio":"$90",
+		"imagen":"patatas.png",
+	},
+	{
+		"nombre":"Cebolla caramelizada",
+		"descripcion":"adf",
+		"precio":"$89",
+		"imagen":"cebolla.png",
+	},
+	{
+		"nombre":"Puré de manzana",
+		"descripcion":"asdh",
+		"precio":"$60",
+		"imagen":"manzana.png",
+	},
+	{
+		"nombre":"pollo asado al horno",
+		"descripcion":"sdfs",
+		"precio":"$140",
+		"imagen":"pollo.png",
+	},
+	{
+		"nombre":"pollo a la naranja",
+		"descripcion":"asfas",
+		"precio":"$150",
+		"imagen":"pollon.png",
+	},
+	{
+		"nombre":"Espagueti carbonara",
+		"descripcion":"dfs",
+		"precio":"$120",
+		"imagen":"espagueti.png",
+	},
+	{
+		"nombre":"banderillas de salchicha",
+		"descripcion":"asdfas",
+		"precio":"$99",
+		"imagen":"banderillas.jpg",
+	},
+	{
+		"nombre":"macarrones con carne",
+		"descripcion":"asfad",
+		"precio":"$170",
+		"imagen":"macarrones.png",
+	},
+	{
+		"nombre":"tortilla de patata",
+		"descripcion":"asfas",
+		"precio":"$100",
+		"imagen":"tortilla.png",
+	},
+	{
+		"nombre":"galletas de mantequilla",
+		"descripcion":"asdfas",
+		"precio":"$70",
+		"imagen":"galletas.png",
+	},
+	{
+		"nombre":"bolas de arroz",
+		"descripcion":"asd",
+		"precio":"$110",
+		"imagen":"arroz.png",
+	},
+	{
+		"nombre":"nuggets",
+		"descripcion":"aasdf",
+		"precio":"$110",
+		"imagen":"nuggets.png",
+	},
+	{
+		"nombre":"pollo guisado",
+		"descripcion":"asdg",
+		"precio":"$150",
+		"imagen":"pollog.png",
+	},
+	{
+		"nombre":"palitos de queso",
+		"descripcion":"adgsa",
+		"precio":"$80",
+		"imagen":"queso.png",
+	},
+	{
+		"nombre":"Espagueti al pesto",
+		"descripcion":"hdw",
+		"precio":"$140",
+		"imagen":"espaguetii.png",
+	},
+	{
+		"nombre":"pollo al curry",
+		"descripcion":"rgj",
+		"precio":"$150",
+		"imagen":"curry.png",
+	},
+],
+ 
+ "Extras":[ 
+ 	{
+ 		"nombre":"arroz",
+ 		"descripcion":"sf",
+ 		"precio":"20",
+ 		"imagen":"",
+ 	},
+ 	{
+ 		"nombre":"queso",
+ 		"descripcion":"sasd",
+ 		"precio":"30",
+ 		"imagen":"",
+ 	},
+ 	{
+ 		"nombre":"Aderezos",
+ 		"descripcion":"sasd",
+ 		"precio":"50",
+ 		"imagen":"",
+ 	},
+ 	{
+ 		"nombre":"guacamole",
+ 		"descripcion":"sasd",
+ 		"precio":"80",
+ 		"imagen":"",
+ 	},
+ 	{
+ 		"nombre":"salsas",
+ 		"descripcion":"sasd",
+ 		"precio":"20",
+ 		"imagen":"",
+ 	},
+ ]
+ "Bebidas":[
+ 	{
+ 		"nombre":"Sprite",
+ 		"descripcion":"sasd",
+ 		"precio":"50",
+ 		"imagen":"",
+ 	},
+ 	{
+ 		"nombre":"Coca-Cola",
+ 		"descripcion":"sasd",
+ 		"precio":"60",
+ 		"imagen":"",
+ 	},
+ 	{
+ 		"nombre":"Agua de limon",
+ 		"descripcion":"sasd",
+ 		"precio":"50",
+ 		"imagen":"",
+ 	},
+ 	{
+ 		"nombre":"Agua de naranaja",
+ 		"descripcion":"sasd",
+ 		"precio":"50",
+ 		"imagen":"",
+ 	},
+ 	{
+ 		"nombre":"Fanta",
+ 		"descripcion":"sasd",
+ 		"precio":"60",
+ 		"imagen":"",
+ 	},
+ ]
